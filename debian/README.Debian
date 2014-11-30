@@ -1,0 +1,6 @@
+esptool for Debian/Ubuntu
+=========================
+
+This package renames `esptool.py` to `esptool`.
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 21:32:42 +0100

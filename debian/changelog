@@ -1,0 +1,5 @@
+esptool (0.1.0+git20141129-0~ppa0) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 17:25:48 +0100

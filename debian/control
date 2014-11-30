@@ -1,0 +1,18 @@
+Source: esptool
+Section: electronics
+Priority: extra
+Maintainer: George Hopkins <george-hopkins@null.net>
+Build-Depends: debhelper (>= 8.0.0), cdbs (>= 0.4.90), python (>= 2.7), python-setuptools, python-serial
+Standards-Version: 3.9.3
+Homepage: https://github.com/themadinventor/esptool
+Vcs-Git: https://github.com/george-hopkins/esptool.git
+Vcs-Browser: https://github.com/george-hopkins/esptool
+X-Python-Version: >= 2.7
+
+Package: esptool
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}, python-serial
+Description: ESP8266 ROM bootloader utility
+ esptool can be used to communicate with the ROM bootloader in Espressif
+ ESP8266. It is intended to be a simple, platform independent, open source
+ replacement for XTCOM.

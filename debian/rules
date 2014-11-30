@@ -1,0 +1,15 @@
+#!/usr/bin/make -f
+
+DEB_PYTHON2_MODULE_PACKAGES = esptool
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+include /usr/share/cdbs/1/class/python-distutils.mk
+
+clean::
+	rm -rf esptool esptool.egg-info debian/esptool.1
+
+makebuilddir/esptool::
+	cp esptool.py esptool
+
+build/esptool::
+	ronn -r debian/esptool.1.ronn
