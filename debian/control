@@ -2,7 +2,7 @@ Source: esptool
 Section: electronics
 Priority: extra
 Maintainer: George Hopkins <george-hopkins@null.net>
-Build-Depends: debhelper (>= 8.0.0), cdbs (>= 0.4.90), python (>= 2.7), python-setuptools, python-serial
+Build-Depends: debhelper (>= 8.0.0), cdbs (>= 0.4.90), python (>= 2.7), python-setuptools, python-serial, ruby-ronn
 Standards-Version: 3.9.3
 Homepage: https://github.com/themadinventor/esptool
 Vcs-Git: https://github.com/george-hopkins/esptool.git

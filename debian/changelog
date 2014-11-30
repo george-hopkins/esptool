@@ -1,3 +1,9 @@
+esptool (0.1.0+git20141129-0~ppa1~precise) UNRELEASED; urgency=low
+
+  * Fixed build dependencies
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:45:00 +0100
+
 esptool (0.1.0+git20141129-0~ppa0~precise) precise; urgency=low
 
   * Initial release.
