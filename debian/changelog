@@ -1,8 +1,26 @@
-esptool (0.1.0+git20141129-0~ppa1~precise) UNRELEASED; urgency=low
+esptool (0.1.0+git20141129-0~ppa1~vivid) vivid; urgency=low
+
+  * Initial release.
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:46:20 +0100
+
+esptool (0.1.0+git20141129-0~ppa1~utopic) utopic; urgency=low
+
+  * Initial release.
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:46:18 +0100
+
+esptool (0.1.0+git20141129-0~ppa1~trusty) trusty; urgency=low
+
+  * Initial release.
+
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:46:15 +0100
+
+esptool (0.1.0+git20141129-0~ppa1~precise) precise; urgency=low
 
   * Fixed build dependencies
 
- -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:45:00 +0100
+ -- George Hopkins <george-hopkins@null.net>  Sun, 30 Nov 2014 22:46:11 +0100
 
 esptool (0.1.0+git20141129-0~ppa0~precise) precise; urgency=low
 
