@@ -52,6 +52,9 @@ to get a detailed view of its function and arguments.
   * `elf2image`:
     Create an application image from ELF file
 
+  * `read_mac`:
+    Read MAC address from OTP ROM
+
 ## EXAMPLES
 
 The probably most useful command; writing an application to flash:
